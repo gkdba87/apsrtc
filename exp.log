@@ -1,0 +1,2 @@
+oracle
+impdp scott/tiger full=y log=asd.log dump=asd.dmp
