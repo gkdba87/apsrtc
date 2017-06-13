@@ -1,2 +1,4 @@
 oracle
 impdp scott/tiger full=y log=asd.log dump=asd.dmp
+
+expdp s<F2>t full=y
